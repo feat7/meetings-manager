@@ -2,7 +2,7 @@
 Simple laravel application to learn from.
 
 # Background
-I had learnt laravel pretty quickly. Like in span of two days. But my problem was I had not made any working app even after that. I am more into learning things, that is what a full stack developer is meant to do. Hence, this was my first app once I got some time.
+I had learnt laravel pretty quickly (not expert level though), like in span of two days. But my problem was I had not made any working app even after that. I am more into learning things, that is what a full stack developer is meant to do. Hence, this was my first app to become more confident in what I had learnt.
 
 # Demo
 [![Meetings Manager](https://img.youtube.com/vi/XBZ9IfgotXk/0.jpg)](https://www.youtube.com/watch?v=XBZ9IfgotXk)
